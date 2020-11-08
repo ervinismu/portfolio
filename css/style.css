@@ -34,7 +34,7 @@ a {
 }
 
 hr {
-	color: #62cdb3;
+	color: var(--color-blue);
 }
 
 a:hover {
